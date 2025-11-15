@@ -190,7 +190,7 @@ if 'total_queries' not in st.session_state:
 
 # ================= Sidebar =================
 with st.sidebar:
-    st.markdown("### 📚 PDF Intelligence Assistant")
+    st.markdown("### 📚 PDF Talker")
     st.markdown("---")
 
     # Statistics
@@ -227,7 +227,7 @@ with st.sidebar:
     st.markdown("[Documentation](#) | [Support](#) | [About](#)")
 
 # ================= Main Page =================
-st.markdown("<h1 style='text-align: center; color: white;'>📚 PDF Intelligence Assistant</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>📚 PDF Talker</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: white; font-size: 1.2rem;'>Upload your PDF and get instant answers to your questions</p>", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
