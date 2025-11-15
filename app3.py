@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="PDF Intelligence Assistant",
+    page_title="PDF Talker ",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
