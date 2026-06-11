@@ -1,3 +1,4 @@
+https://pdf-intelligence1.streamlit.app/
 # 📚 PdfTalker — AI-Powered PDF Chatbot & Question Paper Generator
 
 > Upload any PDF. Ask questions. Generate exam-ready question papers — all powered by Retrieval-Augmented Generation (RAG).
